@@ -21,3 +21,9 @@ _**You've wandered into this strange page, and you my need help?**_
   </a>
 </div>
 
+## certificates
+<div>
+  <img height="100" alt="A-CSD" src="https://bcert.me/bc/html/img/badges/generated/badge-10712.png" />
+  <img height="100" alt="CSD" src="https://bcert.me/bc/html/img/badges/generated/badge-7230.png" />
+  <img height="100" alt="CSM" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" />
+</div>
