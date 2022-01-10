@@ -8,7 +8,7 @@
 [![DockerHub](https://img.shields.io/badge/Dockerhub-otajisan-%23007bff)](https://hub.docker.com/u/otajisan)
 [![pypi](https://img.shields.io/badge/PyPi-otajisan-%23006dad)](https://pypi.org/user/otajisan/)
 
-_**You've wandered into this strange page, and you need　my help?**_
+_**You've wandered into this strange page, and you need my help?**_
 
 [![welcome](assets/img/otajisan-welcome-clear-large.gif)](https://github.com/otajisan)
 
