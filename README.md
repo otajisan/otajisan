@@ -7,6 +7,8 @@
 
 [![DockerHub](https://img.shields.io/badge/Dockerhub-otajisan-%23007bff)](https://hub.docker.com/u/otajisan)
 [![pypi](https://img.shields.io/badge/PyPi-otajisan-%23006dad)](https://pypi.org/user/otajisan/)
+[![agile-hiyoko-club](https://img.shields.io/badge/connpass-agile--hiyoko--club.connpass.com-red)](https://agile-hiyoko-club.connpass.com/)
+
 
 🍻 _**You've wandered into this strange page, and you need my help?**_
 
@@ -57,3 +59,6 @@
   <img width="60" height="60" alt="circleci" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
 </div
 
+  ## Agile Hiyoko Club
+  - [connpass event page](https://agile-hiyoko-club.connpass.com/)
+  - [staticstics](https://otajisan.github.io/agile-hiyoko-club/)
