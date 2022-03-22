@@ -59,6 +59,6 @@
   <img width="60" height="60" alt="circleci" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
 </div
 
-  ## Agile Hiyoko Club
-  - [connpass event page](https://agile-hiyoko-club.connpass.com/)
-  - [staticstics](https://otajisan.github.io/agile-hiyoko-club/)
+## Agile Hiyoko Club
+- [connpass event page](https://agile-hiyoko-club.connpass.com/)
+- [staticstics](https://otajisan.github.io/agile-hiyoko-club/)
